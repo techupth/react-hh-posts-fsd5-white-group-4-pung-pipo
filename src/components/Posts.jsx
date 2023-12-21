@@ -1,3 +1,5 @@
+import { useState } from "react";
+
 function Posts() {
   return (
     <div class="app-wrapper">
